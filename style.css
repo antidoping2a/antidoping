@@ -203,7 +203,7 @@ body
     width: 24px;
     height: 24px;
     border-radius: 100%;
-    background: #444444;
+    background: #777777;
     margin: 0 10px;
 }
 
@@ -368,7 +368,7 @@ body
     }
 }
 
-@media screen and (min-width: 541px) and (max-width: 929px){
+@media screen and (min-width: 541px) {
     .members img {
         max-width: 104px;
         max-height: 104px;
@@ -380,16 +380,5 @@ body
 
     .wrapper {
         max-width: 90vw;
-    }
-}
-
-@media screen and (min-width: 930px){
-    .members img {
-        max-width: 104px;
-        max-height: 104px;
-    }
-
-    .members h4 {
-        font-size: 20px;
     }
 }
