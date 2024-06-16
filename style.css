@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: top;
 
-    background: #FFF7FC;
+    background: #FFFFFF;
 }
 .title
 {
@@ -42,7 +42,7 @@ body
     content: '';
     position: absolute;
     inset: 4px;
-    background: #FFF7FC;
+    background: #FFFFFF;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff512f",endColorstr="#dd2476",GradientType=1);
     background-attachment: fixed;
     border-radius: 14px;
