@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: top;
 
-    background: #FFFFFF;
+    background: #ffffff;
 }
 .title
 {
@@ -42,7 +42,7 @@ body
     content: '';
     position: absolute;
     inset: 4px;
-    background: #FFFFFF;
+    background: #ffffff;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff512f",endColorstr="#dd2476",GradientType=1);
     background-attachment: fixed;
     border-radius: 14px;
@@ -259,8 +259,8 @@ body
 
 
     .members img {
-        max-width: 3.25rem;
-        max-height: 3.25rem;
+        max-width: 3rem;
+        max-height: 3rem;
     }
 
     .members h4 {
@@ -285,15 +285,15 @@ body
     }
 }
 
-@media screen and (min-width: 221px) and (max-width: 230px) {
+@media screen and (min-width: 221px) and (max-width: 270px) {
 
     .wrapper h2 {
         font-size: 1.5rem;
     }
 
     .members img {
-        max-width: 3.8rem;
-        max-height: 3.8rem;
+        max-width: 3.6rem;
+        max-height: 3.6rem;
     }
 
     .members h4 {
@@ -318,15 +318,15 @@ body
     }
 }
 
-@media screen and (min-width: 231px) and (max-width: 310px) {
+@media screen and (min-width: 271px) and (max-width: 310px) {
 
     .wrapper h2 {
         font-size: 1.5rem;
     }
 
     .members img {
-        max-width: 3.8rem;
-        max-height: 3.8rem;
+        max-width: 5rem;
+        max-height: 5rem;
     }
 
     .members h4 {
